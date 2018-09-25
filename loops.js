@@ -1,4 +1,4 @@
-var i = 0;
-for(var i= 0; <25 ; i++){
+var i;
+for( i = 0; <25 ; i++){
   
 }
